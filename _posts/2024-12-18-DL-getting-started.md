@@ -32,7 +32,7 @@ Machine learning, on the other hand, is the way to solve exactly this kind of ta
 At first, we remove a program (please refer to the pictures pictures above while reading this) and replace it with a model, and along with the input we add weights.
 Now the output our software produces depends on the input... and the weights! Weights are just variables that somehow change, and changing weights, that are fed into the model, change the model's behavior
 
-Now let's zoom out and see where the idea of weights really comes from. To not be tiresome, this is something similar to neurons, found in our brains.
+Now let's zoom out and see where the idea of weights really comes from. To cut to the chase, this is something similar to neurons, found in our brains.
 Neurons are very complex, they are made up of a whole lot of things such as axons, presynaptic thermals, dentrits, synapse and etc. But most importantly, neurons can produce signals, 
 pass it to other neurons that produce a new signal based on the one received before. Together they make our brains work!
 
