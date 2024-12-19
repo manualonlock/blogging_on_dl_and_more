@@ -75,6 +75,8 @@ Let's revise what neural networks look like given all of the above
 ![image](https://github.com/user-attachments/assets/c9af2bbe-af5b-434f-b360-2c187ac5f05e)
 
 Now, not only our model (or particular architecture) takes an input and weights, but also the difference lies in it's training process, where the predictions, compared to labels, produce loss,
-and stochastic gradient descent tries to minimize the loss.
+and stochastic gradient descent tries to minimize the loss. The beauty of this idea is that it can be applied on different kinds of problems, such as Image Classifiction, Natural Language Processing, Recommendation Systems etc. It's not absolutely universal and different problems require different amount of adjustment to the architecure, but in it's very core the idea remains the same. What we've just learned is called **Deepo Learning**. Deep Learning, in turn, branches out of a broader concept, called **Machine Learning**, where the general idea is to train programs (or so to speak, make them learn) by showing them examples of problems and how they should be solved.
 
 
+### Conclusion
+I was thinking about showcasing Deep Learning in real examples, with perhaps some nuances that usually turn up while a model is being trained, but I think this subjects to be a part of another article. At the moment, I hope this post helped you get a sense of what Deep Learning and Neural Networks are all about
